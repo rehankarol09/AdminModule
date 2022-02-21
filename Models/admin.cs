@@ -14,6 +14,7 @@ namespace AdminModule.Models
     
     public partial class admin
     {
+
         public string admin_id { get; set; }
         public string admin_password { get; set; }
     }

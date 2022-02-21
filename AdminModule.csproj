@@ -317,6 +317,8 @@
     </Content>
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Images\image1.jpg" />
+    <Content Include="Views\Home\Login.css\style.css" />
     <Content Include="wwwroot\lib\bootstrap\css\bootstrap-grid.css" />
     <Content Include="wwwroot\lib\bootstrap\css\bootstrap-grid.min.css" />
     <Content Include="wwwroot\lib\bootstrap\css\bootstrap-grid.rtl.css" />

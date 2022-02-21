@@ -8,10 +8,10 @@ namespace AdminModule.Models
 {
     public class LoginModal
     {
-        [Required(ErrorMessage ="This is Required")]
+        [Required]
         [Display(Name ="Username")]
         public string username { get; set; }
-        [Required(ErrorMessage = "This is Required")]
+        [Required]
         [Display(Name = "Password")]
         [DataType(DataType.Password)]
         public string password { get; set; }
